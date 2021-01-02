@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Pratheek Irvathur'
-    content: I'm a user experience and user interface designer.
+    content: 'I''m a user experience and user interface designer. '
     actions:
       - label: Let's talk
         url: /contact
